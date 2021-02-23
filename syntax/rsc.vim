@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:   RouterOS script
 " Maintainer: Krzysztof Cieslak
-" Repository: https://gitlab.com/vim-scripts/vim-routeros-syntax
+" Repository: https://github.com/krcs/vim-routeros-syntax
 " License:    Vim
 
 if exists("b:current_syntax")
